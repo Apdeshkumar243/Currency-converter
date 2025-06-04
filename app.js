@@ -34,7 +34,7 @@ const updateExchangeRate = async () => {
       amount.value = "1";
     }
     
-    // Updated API URL - the old one might be deprecated
+  
     const URL = `https://api.exchangerate-api.com/v4/latest/${fromCurr.value}`;
     
     let response = await fetch(URL);

@@ -22,7 +22,5 @@ This currency converter web app uses HTML, CSS, and JavaScript to fetch real-tim
 3. Select currencies and amount  
 4. Click Convert – done!
 
-## 🔗 Live Demo
 
-Coming Soon! (Or add your deployed link here)
 
